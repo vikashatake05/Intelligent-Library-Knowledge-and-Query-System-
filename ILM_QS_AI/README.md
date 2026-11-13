@@ -53,18 +53,25 @@ intelligent_library_fol/
 ├── unification.py             # First-order term unification with occurs check
 ├── inference_engine.py        # Forward-chaining deduction engine
 ├── query_engine.py            # Natural language to FOL translator & query answerer
+├── ui_components.py           # Centralized UI components & Deduction Ledger renderer
 ├── data.py                    # Static sample fact definitions & initial catalogue mapping
 ├── utils.py                   # Predicate signatures & validation utilities
 ├── test_demo.py               # Original 5-scenario FOL validation script
 ├── test_suite.py              # Comprehensive automated 12-scenario integration test suite
 │
+├── assets/                    # Centralized design system
+│   └── theme.css              # Unslop design tokens, variables, and component styles
+│
 ├── pages/                     # Modular view components
 │   ├── dashboard.py           # Real-time analytics dashboard & Altair visualizations
-│   ├── intelligent_query.py   # Query input, natural language parser, and explanation view
-│   └── library_management.py  # Tabbed CRUD and borrowing circulation management
+│   ├── intelligent_query.py   # Signature Intelligent FOL Query Workbench & Deduction Ledger
+│   └── library_management.py  # Tabbed CRUD and borrowing circulation workbench
 │
 ├── database/
 │   └── library.db             # Persistent SQLite database file (created automatically)
+│
+├── .streamlit/
+│   └── config.toml            # Client and theme configuration
 │
 ├── requirements.txt           # Python package dependencies
 └── README.md                  # Project documentation & execution guide
