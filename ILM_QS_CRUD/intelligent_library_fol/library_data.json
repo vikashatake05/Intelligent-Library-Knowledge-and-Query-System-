@@ -1,0 +1,871 @@
+[
+  {
+    "predicate": "Subject",
+    "args": [
+      "Artificial_Intelligence"
+    ]
+  },
+  {
+    "predicate": "Subject",
+    "args": [
+      "Data_Structures"
+    ]
+  },
+  {
+    "predicate": "Subject",
+    "args": [
+      "Database_Systems"
+    ]
+  },
+  {
+    "predicate": "Subject",
+    "args": [
+      "Computer_Networks"
+    ]
+  },
+  {
+    "predicate": "Subject",
+    "args": [
+      "Operating_Systems"
+    ]
+  },
+  {
+    "predicate": "Subject",
+    "args": [
+      "Software_Engineering"
+    ]
+  },
+  {
+    "predicate": "Subject",
+    "args": [
+      "Mathematics"
+    ]
+  },
+  {
+    "predicate": "Subject",
+    "args": [
+      "Cyber_Security"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Russell"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Russell",
+      "Artificial_Intelligence"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Norvig"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Norvig",
+      "Artificial_Intelligence"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Cormen"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Cormen",
+      "Data_Structures"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Sedgewick"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Sedgewick",
+      "Data_Structures"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Elmasri"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Elmasri",
+      "Database_Systems"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Kurose"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Kurose",
+      "Computer_Networks"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Tanenbaum"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Tanenbaum",
+      "Operating_Systems"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Sommerville"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Sommerville",
+      "Software_Engineering"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Rosen"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Rosen",
+      "Mathematics"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Stallings"
+    ]
+  },
+  {
+    "predicate": "SpecializesIn",
+    "args": [
+      "Stallings",
+      "Cyber_Security"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "AI_A_Modern_Approach"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "AI_A_Modern_Approach",
+      "Russell"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "AI_A_Modern_Approach",
+      "Artificial_Intelligence"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Artificial_Intelligence_Foundations"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Artificial_Intelligence_Foundations",
+      "Norvig"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Artificial_Intelligence_Foundations",
+      "Artificial_Intelligence"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Introduction_to_Algorithms"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Introduction_to_Algorithms",
+      "Cormen"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Introduction_to_Algorithms",
+      "Data_Structures"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Algorithms_in_C"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Algorithms_in_C",
+      "Sedgewick"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Algorithms_in_C",
+      "Data_Structures"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Fundamentals_of_Database_Systems"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Fundamentals_of_Database_Systems",
+      "Elmasri"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Fundamentals_of_Database_Systems",
+      "Database_Systems"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Computer_Networking"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Computer_Networking",
+      "Kurose"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Computer_Networking",
+      "Computer_Networks"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Modern_Operating_Systems"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Modern_Operating_Systems",
+      "Tanenbaum"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Modern_Operating_Systems",
+      "Operating_Systems"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Software_Engineering"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Software_Engineering",
+      "Sommerville"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Software_Engineering",
+      "Software_Engineering"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Discrete_Mathematics"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Discrete_Mathematics",
+      "Rosen"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Discrete_Mathematics",
+      "Mathematics"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Network_Security_Essentials"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Network_Security_Essentials",
+      "Stallings"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Network_Security_Essentials",
+      "Cyber_Security"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Deep_Learning_Basics"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Deep_Learning_Basics",
+      "Norvig"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Deep_Learning_Basics",
+      "Artificial_Intelligence"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Advanced_Data_Structures"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Advanced_Data_Structures",
+      "Cormen"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Advanced_Data_Structures",
+      "Data_Structures"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Database_Design"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Database_Design",
+      "Elmasri"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Database_Design",
+      "Database_Systems"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Secure_Computer_Networks"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Secure_Computer_Networks",
+      "Stallings"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Secure_Computer_Networks",
+      "Cyber_Security"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Software_Project_Management"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Software_Project_Management",
+      "Sommerville"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Software_Project_Management",
+      "Software_Engineering"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Ravi"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Ravi",
+      "Computer_Science"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Ananya"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Ananya",
+      "Information_Science"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Kiran"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Kiran",
+      "Electronics"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Meera"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Meera",
+      "Mechanical"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Arjun"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Arjun",
+      "Computer_Science"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Divya"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Divya",
+      "Information_Science"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Rahul"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Rahul",
+      "Electronics"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Sneha"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Sneha",
+      "Mechanical"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Vikram"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Vikram",
+      "Computer_Science"
+    ]
+  },
+  {
+    "predicate": "Student",
+    "args": [
+      "Pooja"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Pooja",
+      "Information_Science"
+    ]
+  },
+  {
+    "predicate": "Faculty",
+    "args": [
+      "Dr_Sharma"
+    ]
+  },
+  {
+    "predicate": "Faculty",
+    "args": [
+      "Dr_Rao"
+    ]
+  },
+  {
+    "predicate": "Faculty",
+    "args": [
+      "Prof_Mehta"
+    ]
+  },
+  {
+    "predicate": "Faculty",
+    "args": [
+      "Dr_Kulkarni"
+    ]
+  },
+  {
+    "predicate": "Faculty",
+    "args": [
+      "Prof_Iyer"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Dr_Sharma",
+      "Computer_Science"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Dr_Rao",
+      "Information_Science"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Prof_Mehta",
+      "Electronics"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Dr_Kulkarni",
+      "Mechanical"
+    ]
+  },
+  {
+    "predicate": "MemberOf",
+    "args": [
+      "Prof_Iyer",
+      "Computer_Science"
+    ]
+  },
+  {
+    "predicate": "Department",
+    "args": [
+      "Computer_Science"
+    ]
+  },
+  {
+    "predicate": "Department",
+    "args": [
+      "Information_Science"
+    ]
+  },
+  {
+    "predicate": "Department",
+    "args": [
+      "Electronics"
+    ]
+  },
+  {
+    "predicate": "Department",
+    "args": [
+      "Mechanical"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Ananya",
+      "Introduction_to_Algorithms"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Kiran",
+      "Computer_Networking"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Meera",
+      "Fundamentals_of_Database_Systems"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Arjun",
+      "Modern_Operating_Systems"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Divya",
+      "Software_Engineering"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Rahul",
+      "Discrete_Mathematics"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Sneha",
+      "Network_Security_Essentials"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Vikram",
+      "Algorithms_in_C"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Pooja",
+      "Database_Design"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Dr_Sharma",
+      "Deep_Learning_Basics"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Dr_Rao",
+      "Advanced_Data_Structures"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Prof_Mehta",
+      "Secure_Computer_Networks"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Dr_Kulkarni",
+      "Software_Project_Management"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Prof_Iyer",
+      "AI_A_Modern_Approach"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Ravi",
+      "Computer_Networking"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Ananya",
+      "Database_Design"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Kiran",
+      "Discrete_Mathematics"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Meera",
+      "AI_A_Modern_Approach"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Arjun",
+      "Network_Security_Essentials"
+    ]
+  },
+  {
+    "predicate": "Book",
+    "args": [
+      "Introduction_to_C"
+    ]
+  },
+  {
+    "predicate": "Author",
+    "args": [
+      "Tim_David"
+    ]
+  },
+  {
+    "predicate": "Subject",
+    "args": [
+      "Programming"
+    ]
+  },
+  {
+    "predicate": "WrittenBy",
+    "args": [
+      "Introduction_to_C",
+      "Tim_David"
+    ]
+  },
+  {
+    "predicate": "BelongsTo",
+    "args": [
+      "Introduction_to_C",
+      "Programming"
+    ]
+  },
+  {
+    "predicate": "Borrowed",
+    "args": [
+      "Divya",
+      "AI_A_Modern_Approach"
+    ]
+  }
+]
